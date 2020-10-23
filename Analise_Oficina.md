@@ -1,7 +1,5 @@
 # Analise Faturamento Oficina
-\n
-\n
-teste
+<sub>Microsoft SQL Server, Microsoft Power BI Desktop</sub>
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
