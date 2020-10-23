@@ -12,6 +12,8 @@ Foram solicitados os seguintes itens para demonstrar no dashboard:
 * % participação por Matriz e Filial
 * Área de atuação
 
+Conforme solicitação foi criado o DashBoard "Análise de Vendas Oficina"
+
 
 
 **Links:**
