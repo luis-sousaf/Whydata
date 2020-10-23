@@ -1,3 +1,3 @@
 
-'#Teste edicao'
+'#Teste edicao'\n
 teste
