@@ -14,6 +14,6 @@ Foram solicitados os seguintes itens para demonstrar no dashboard:
 
 Conforme solicitação foi criado o DashBoard "Análise de Vendas Oficina"
 
-<img src="Grafico_Empresa.jpg">
+<img src="img\Grafico_Empresa.jpg">
 
 
