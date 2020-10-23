@@ -1,4 +1,6 @@
+# Teste Estilo
 
-<h1>teste</h1>
-Teste edicao'\n
-teste
+**Links:**
+* [Blog](http://sigmoidal.ai)
+* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [Medium](https://www.medium.com)
