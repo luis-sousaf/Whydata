@@ -20,7 +20,7 @@ Conforme solicitação foi criado o DashBoard "Análise de Vendas Oficina", o qu
 
 O Gestor poderá analisar todos os itens e fazer comparações e entender como anda seu faturamento.
 
-Vamos agora apresentar cada item separadamento e explanar sobre os insights retomados.
+Serpa apresentado cada item separadamente, para entender o fluxo da análise.
 
 ## Faturamento Geral
 
