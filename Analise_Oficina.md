@@ -22,7 +22,7 @@ O Gestor poderá analisar todos os itens e fazer comparações e entender como a
 
 Vamos agora apresentar cada item separadamento e explanar sobre os insights retomados.
 
-##Faturamento Geral
+## Faturamento Geral
 
 <p align="center">
 <img src="faturamento.jpg">
